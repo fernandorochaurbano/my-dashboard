@@ -18,8 +18,6 @@ But thy eternal summer shall not fade
 Nor lose possession of that fair thou owst,
 Nor shall Death brag thou wandrest in his shade,
 When in eternal lines to time thou growst.
- So long as men can breathe or eyes can see,
- So long lives this, and this gives life to thee.
 
 
 .. toctree::
@@ -31,6 +29,7 @@ When in eternal lines to time thou growst.
    ./_notebook_build/_02_pca_index_visualizations.ipynb
    ./_notebook_build/_03_pca_index_dashboard.ipynb
    api.rst
+
 
 
 Indices and tables
