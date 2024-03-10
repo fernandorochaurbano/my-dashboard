@@ -3,36 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to My Blank Project's documentation!
+Shakespeare's Sonnets
 ============================================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   myst_markdown_demos.md
-   ./_notebook_build/_01_example_notebook.ipynb
-   ./_notebook_build/_02_pca_index_visualizations.ipynb
-   ./_notebook_build/_03_pca_index_dashboard.ipynb
-   api.rst
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Shall I compare thee to a summers day?
+Thou art more lovely and more temperate.
+Rough winds do shake the darling buds of May,
+And summers lease hath all too short a date.
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimmed;
+And every fair from fair sometime declines,
+By chance or natures changing course untrimmed.
+But thy eternal summer shall not fade
+Nor lose possession of that fair thou owst,
+Nor shall Death brag thou wandrest in his shade,
+When in eternal lines to time thou growst.
+ So long as men can breathe or eyes can see,
+ So long lives this, and this gives life to thee.
 
 
 Indices and tables
