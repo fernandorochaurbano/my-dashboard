@@ -22,6 +22,17 @@ When in eternal lines to time thou growst.
  So long lives this, and this gives life to thee.
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   myst_markdown_demos.md
+   ./_notebook_build/_01_example_notebook.ipynb
+   ./_notebook_build/_02_pca_index_visualizations.ipynb
+   ./_notebook_build/_03_pca_index_dashboard.ipynb
+   api.rst
+
+
 Indices and tables
 ==================
 
